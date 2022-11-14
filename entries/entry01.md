@@ -7,6 +7,8 @@ Throughout my process of deciding a tool, I had a few in mind and had to conside
 
 I am currently at Stage 1: Define the problem of the Engineering Design Process. In this stage, I am currently deciding on what I would like to make with coding and what tool would be best for that. For the next stage, I will start tinkering with my tool more.
 
+One skill
+
 [Next](entry02.md)
 
 [Home](../README.md)
