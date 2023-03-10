@@ -5,6 +5,8 @@ I started to learn how to add movement to the sprite in Kaboom. One way that I l
 
 Next, I plan to learn how to make the sprite move left and right and how a score can be added to the game.
 
+I am currently at Stage 2: Research the problem of the Engineering Design Process. In this stage, I am learning my tool and figuring out how a game can be made using Kaboom. For the next stage, I plan on tinkering with my tool more and start thinking about what I will use to make the game.
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
