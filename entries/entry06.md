@@ -9,6 +9,6 @@ I am currently on **Stage 8: Communicate the results** of the Engineering Design
 
 One skill that I grew in is **communication** because through these two presentations, I was able to learn what's important in a presentation and what I need to improve on. I learned that it's important to prepare and practice before a presentation so that the audience has a better understanding of what I wanted to present. I also learned that it's important to communicate with others in your group because my partner and I had to communicate to decide who was presenting which part and how we wanted to organize our presentation. Another skill that I grew in is **consideration** because my partner and I had to consider how we wanted to organize our presentation in order for the audience to best understand our process and how we got to the end result of our game.
 
-[Previous](entry05.md) | [Next](entry07.md)
+[Previous](entry05.md)
 
 [Home](../README.md)
